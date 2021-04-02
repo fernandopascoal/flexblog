@@ -1,0 +1,2 @@
+Esse é um projeto criado para o estudo de Flexbox/CSS acompanhando o curso da Origamid.
+Através dele pude entender os conceitos e aplicações desse elemento CSS que é de suma importancia para a criação de telas fluidas e responsivas.
